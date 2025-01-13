@@ -24,48 +24,70 @@ You may also see any lint errors in the console.
 
 # Project Look
 
+
 ### `Login Page`
+
 
 ![image alt](https://github.com/Dhruvpanwar27/Jbzee/blob/ac37702ab9af6e4c3fc5562a9851cbc9055da2c8/Project%20Screenshots/Front.png)
 
 
 ## Employeer View
 
+
 ### `Home Page`
+
 
 ![image alt](https://github.com/Dhruvpanwar27/Jbzee/blob/ac37702ab9af6e4c3fc5562a9851cbc9055da2c8/Project%20Screenshots/home.png)
 
 
 ### `Post a Job`
 
+
 ![image alt](https://github.com/Dhruvpanwar27/Jbzee/blob/ac37702ab9af6e4c3fc5562a9851cbc9055da2c8/Project%20Screenshots/post%20a%20job.png)
+
 
 ### `Edit a Job`
 
+
 ![image alt](https://github.com/Dhruvpanwar27/Jbzee/blob/ac37702ab9af6e4c3fc5562a9851cbc9055da2c8/Project%20Screenshots/edit%20a%20job.png)
 
+
 ### `Applicant's Applications`
+
 
 ![image alt](https://github.com/Dhruvpanwar27/Jbzee/blob/ac37702ab9af6e4c3fc5562a9851cbc9055da2c8/Project%20Screenshots/applicant%20application.png)
 
 
 ## Job Seeker View
 
+
 ### `View All Jobs`
+
 
 ![image alt](https://github.com/Dhruvpanwar27/Jbzee/blob/ac37702ab9af6e4c3fc5562a9851cbc9055da2c8/Project%20Screenshots/all%20jobs.png)
 
+
 ### `Apply For a Job`
+
 
 ![image alt](https://github.com/Dhruvpanwar27/Jbzee/blob/ac37702ab9af6e4c3fc5562a9851cbc9055da2c8/Project%20Screenshots/application%20form.png)
 
+
 ### `View or Delete Application`
 
+
 ![image alt](https://github.com/Dhruvpanwar27/Jbzee/blob/ac37702ab9af6e4c3fc5562a9851cbc9055da2c8/Project%20Screenshots/my%20application.png)
+
 
 ## Technologie Used
 
 Frotntend: Reactjs, Bootstrap, HTML, CSS.
+
 Backend : Expressjs, Nodejs.
+
 Database : MongoDB.
-Project Goal: The portal aims to connect employers and applicants effectively, facilitating a smoother hiring process.
+
+### `Project Goal`
+
+
+The portal aims to connect employers and applicants effectively, facilitating a smoother hiring process.

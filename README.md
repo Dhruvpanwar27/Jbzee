@@ -42,12 +42,12 @@ You may also see any lint errors in the console.
 
 ### `Post a Job`
 
-
+![image alt](https://github.com/Dhruvpanwar27/Jbzee/blob/8fc243224363d5ab33d29dabdc17bde1c306227e/Project%20Screenshots/post.png)
 
 
 ### `Edit a Job`
 
-
+![image alt](https://github.com/Dhruvpanwar27/Jbzee/blob/8fc243224363d5ab33d29dabdc17bde1c306227e/Project%20Screenshots/edit.png)
 
 
 ### `Applicant's Applications`
@@ -61,8 +61,7 @@ You may also see any lint errors in the console.
 
 ### `View All Jobs`
 
-
-
+![image alt](https://github.com/Dhruvpanwar27/Jbzee/blob/8fc243224363d5ab33d29dabdc17bde1c306227e/Project%20Screenshots/all%20.png)
 
 
 ### `Apply For a Job`
